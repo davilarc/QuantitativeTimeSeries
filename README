@@ -1,4 +1,5 @@
-Time Series
+# Time Series
 
 - Short code projects whose intentions are to display basic time series applications, code and output.
 - Added a line to verify whether or not git bash is working as advertised
+- (29 Dec 21): updated the Quantiative Forecasting Techniques jupyter notebook with the most recent version
